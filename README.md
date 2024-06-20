@@ -1,1 +1,1 @@
-# QuadB--tech-Internship-
+QuadB Tech ReactJS Internship Task
